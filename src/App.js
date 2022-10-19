@@ -26,7 +26,6 @@ const INITIAL_EXPENSES = [
 
 const App = () => {
   const [expenses, setExpenses] = useState(INITIAL_EXPENSES);
-
   const addExpenseHanlder = (expense) => {
     // console.log("In App.js");
     // console.log(expense);
