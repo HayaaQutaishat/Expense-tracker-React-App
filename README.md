@@ -27,6 +27,8 @@ A cancel button is added in order to allow users to cancel the process of adding
 
 ### Filter Expenses:
 
+The Expense Filter component allow users to pick a year from the dropdown list and filter the expenses list based on the selected year dynamically.
+
 <img width="891" alt="Screen Shot 2022-10-31 at 5 15 03 PM" src="https://user-images.githubusercontent.com/95029840/199056676-7f731a00-0223-4632-802a-2292c320091c.png">
 
 
