@@ -19,14 +19,12 @@ This page shows all the different parts of the project.
 
 When users click on Add New Expense button, some parts of the UI changes and a form will be rendered to the DOM so that users can add a new expense by filling the title, amount and date fields. 
 
-
-<img width="1097" alt="Screen Shot 2022-10-31 at 9 46 57 AM" src="https://user-images.githubusercontent.com/95029840/198968169-2010bb0b-8f4a-4866-a7f0-237da8a1f085.png">
+<img width="1063" alt="Screen Shot 2022-10-31 at 9 49 16 AM" src="https://user-images.githubusercontent.com/95029840/198968599-46f3aa4e-cd4a-4092-b115-c1e257112b55.png">
 
 
 A cancel button is added in order to allow users to cancel the process of adding a new expense. If users click on add expense button, a new expense will be added at the top of the list of expenses.
 
-
-
+<img width="1164" alt="Screen Shot 2022-10-31 at 9 50 00 AM" src="https://user-images.githubusercontent.com/95029840/198968726-7d75d775-ce8d-44d9-9236-efabdf40797a.png">
 
 
 
