@@ -9,7 +9,7 @@ An expense tracker app that will allow users to add new expenses by filling in a
 
 ## The Main Page:
 
-This page shows all the different parts of the project.
+The main page shows all the different parts of the project.
 
 <img width="1024" alt="Screen Shot 2022-10-31 at 9 14 43 AM" src="https://user-images.githubusercontent.com/95029840/198962404-97f1fcb9-fa4f-4e7d-be05-6c588a19d072.png">
 
