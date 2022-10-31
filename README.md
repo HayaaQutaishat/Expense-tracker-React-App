@@ -25,6 +25,9 @@ A cancel button is added in order to allow users to cancel the process of adding
 
 <img width="1164" alt="Screen Shot 2022-10-31 at 9 50 00 AM" src="https://user-images.githubusercontent.com/95029840/198968726-7d75d775-ce8d-44d9-9236-efabdf40797a.png">
 
+### Filter Expenses:
+
+<img width="891" alt="Screen Shot 2022-10-31 at 5 15 03 PM" src="https://user-images.githubusercontent.com/95029840/199056676-7f731a00-0223-4632-802a-2292c320091c.png">
 
 
 ## Usage:
