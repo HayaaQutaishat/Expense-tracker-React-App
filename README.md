@@ -9,7 +9,7 @@ An expense tracker app that will allow users to add new expenses by filling in a
 
 ## The Main Page:
 
-The main page shows all the different parts of the project.
+The main page shows all the different parts of the project. This react application consists of multiple components some of them are re-usable just like the Card component which it can be used in various parts of the application.
 
 <img width="1024" alt="Screen Shot 2022-10-31 at 9 14 43 AM" src="https://user-images.githubusercontent.com/95029840/198962404-97f1fcb9-fa4f-4e7d-be05-6c588a19d072.png">
 
